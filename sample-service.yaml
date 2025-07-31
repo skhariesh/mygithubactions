@@ -77,7 +77,7 @@ services:
   groups:
   - name: test-service-CGroup
   keyauth_credentials:
-  - key: jZTj9XjpBF2nU0wF6SJjx1LADhg28ISk
+  - key: testkey
   username: test-service-User 
 
 
